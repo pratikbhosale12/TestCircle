@@ -25,6 +25,7 @@ Testing github with sample code for Training.
 <!-- ** or __ means bols while * or _ meand italic -->
 
 **_For Viewing Purpose_**
+<!-- comments -->
 ![Alt text](image.png)
 
 <!-- Tables -->
@@ -35,10 +36,13 @@ Testing github with sample code for Training.
 |data 1|data 2|data 3|
 |data 1|data 2|[Click here for python file](https://github.com/pratikbhosale12/TestCircle/blob/main/Circle.py)|
 
-'''python
+''' python
 print("Hello World!")
-'''
+"""
+```python
+print("Hello World")
+```
 
-'''java
+```java
 System.out.println("Hello World!)
-'''
+```
