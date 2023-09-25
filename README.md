@@ -1,2 +1,3 @@
 # TestCircle
-Testing github with sample code
+Testing github with sample code for Training.
+
